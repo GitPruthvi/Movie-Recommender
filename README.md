@@ -1,7 +1,7 @@
 # Movie-Recommender
 Implemented two types of recommender systems:
-- <b>Demographic Filtering</b> - User gets recommendations based on movie popularity. 
-- <b>Content Based Filtering</b> - User gets recommendatons based on the movie's metadata like director, actors, genre, keywords etc.
+- <b>Demographic Filtering</b> - User gets recommendations based on the movie popularity. 
+- <b>Content Based Filtering</b> - User gets recommendations based on the movie's metadata like director, actors, genre, keywords etc.
 
 ### How did I achieved it
 -	Python libraries like NumPy, Pandas and Matplotlib are used to manipulate and visualize data. 
